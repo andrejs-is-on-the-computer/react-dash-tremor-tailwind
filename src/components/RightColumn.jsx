@@ -3,7 +3,7 @@ import SalesItem from './SalesItem';
 
 const RightColumn = () => {
     return (
-        <div>
+        <div className="w-full p-2">
             <SalesItem />
         </div>
     )
