@@ -64,7 +64,7 @@ const SalesItem = () => {
     const [selectedIndex, setSelectedIndex] = useState(0);
 
     return (
-        <Card className="max-w-full mt-2">
+        <Card className="max-w-full">
             <Flex className="space-x-8 flex-col lg:flex-row">
                 <Title>Overview</Title>
                 <TabGroup index={selectedIndex} onIndexChange={setSelectedIndex}>
