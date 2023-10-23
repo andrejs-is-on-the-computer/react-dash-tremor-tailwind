@@ -3,6 +3,8 @@ import Navbar from './components/Navbar'
 import LeftColumn from './components/LeftColumn'
 import RightColumn from './components/RightColumn'
 
+
+
 function App() {
 
   return (
