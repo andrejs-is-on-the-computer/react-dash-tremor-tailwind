@@ -2,12 +2,9 @@
 
 Finance Dashboard
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/andrejs-is-on-the-computer/react-dash-tremor-tailwind/blob/main/financedashboard.png?raw=true))
-
 Dashboard tool for viewing finances and social media metrics
 
-
-
+![financedashboard](https://github.com/andrejs-is-on-the-computer/react-dash-tremor-tailwind/assets/63778410/221cf4ee-3bf8-4a31-a58c-f4a75d3728f4)
 
 React + Vite
 
