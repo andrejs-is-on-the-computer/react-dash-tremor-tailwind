@@ -1,9 +1,13 @@
 # React + Tailwind + Tremor
-# Finance Dashboard
+
+Finance Dashboard
 
 Dashboard tool for viewing finances and social media metrics
 
-# React + Vite
+
+
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
